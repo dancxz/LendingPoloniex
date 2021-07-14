@@ -2,9 +2,9 @@
  Tarefas simples para emprestimos de criptomoeda na Poloniex
  as tarefas são executadas em uma crontab separadamente
 
-Divdido em:
+Dividido em:
  - Envio da ordem com taxa X
- - Cancelamento da ordem, se não foi executada
+ - Cancelamento das ordens não executadas
  - Coleta dos emprestimos feitos
 
 
